@@ -20,7 +20,7 @@ public class App {
 		System.out.println("Resultados ejecutados por la ClaseAbstracta2");
 		System.out.println("multiplicacion: "+operacion2.multiplicar(numero));
 		System.out.println("suma: "+operacion2.sumar(numero));
-
+		Leer.close();
 		//esto es un comit
 	}
 
